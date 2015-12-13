@@ -21,7 +21,7 @@
             <%@ include file="includes/header.jsp" %>
 
             <%@ include file="includes/menu.jsp" %>
-
+<%@ include file="includes/search.jsp" %>
             <div class ="main">
 
            

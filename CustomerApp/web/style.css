@@ -5,7 +5,7 @@ body{background-color: #D2B48C;}
 .header {text-align:left; padding:15px;}
 .headerImage {float: left; width:105px;}
 .headerText {float: left; height: 105px; padding-top: 50px; padding-left: 30px;}
-
+.search{float:left;}
 h1{margin: auto; padding-bottom: 10px;}
 
 form{ width: 550px; margin: auto;}
